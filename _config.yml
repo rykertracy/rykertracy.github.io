@@ -14,7 +14,7 @@ author:
   bio: "Data Scientist, Geoscientist, and a Lifelong Learner"
 
 # Theme settings
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/modernist@v0.2.0
 
 # Plugins
 plugins:
@@ -22,6 +22,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Collections
 collections:
