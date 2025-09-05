@@ -14,8 +14,7 @@ author:
   bio: "Data Scientist, Geoscientist, and a Lifelong Learner"
 
 # Theme settings
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"
+theme: jekyll-theme-cayman
 
 # Plugins
 plugins:
