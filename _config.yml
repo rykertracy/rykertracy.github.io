@@ -51,7 +51,7 @@ defaults:
 # Social
 social:
   github: rykertracy
-  linkedin: [rykertracy](https://www.linkedin.com/in/ryker-tracy-737024125/)
+  linkedin: "ryker-tracy-737024125"
 
 # Other settings
 markdown: kramdown
