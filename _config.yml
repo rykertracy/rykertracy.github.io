@@ -14,7 +14,7 @@ author:
   bio: "Data Scientist, Geoscientist, and a Lifelong Learner"
 
 # Theme settings
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 
 # Plugins
 plugins:
@@ -29,6 +29,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  posts:
+    output: true
 
 # Navigation
 nav:

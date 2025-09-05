@@ -4,13 +4,10 @@ title: "Ryker Tracy"
 ---
 
 
-# Welcome to my portfolio!
+# 👋 Welcome to My Portfolio
 
-This is the central hub for my work, projects, and open source contributions.
-
-## About Me
-
-I'm Ryker Tracy, a data scientist, geoscientist, and lifelong learner. [Learn more about me &rarr;](/about/)
+Hi, I'm **Ryker Tracy** — a **Data Scientist** and **Geoscientist** blending earth science with AI.  
+I build tools, models, and open source projects that connect data with real-world applications.  [Learn more about me &rarr;](/about/)
 
 ## Projects
 
