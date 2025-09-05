@@ -1,0 +1,58 @@
+# Site settings
+# These are the main settings for your Jekyll site
+
+title: "Ryker Tracy"
+description: "A centralized, visually friendly display of my work on GitHub."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://rykertracy.github.io" # the base hostname & protocol for your site
+
+# Author settings
+author:
+  name: "Ryker Tracy"
+  email: "rykertracy@example.com"
+  github: "rykertracy"
+  bio: "Data Scientist, Geoscientist, and a Lifelong Learner"
+
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-sitemap
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "About"
+    url: "/about/"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "single"
+      author_profile: true
+
+# Social
+social:
+  github: rykertracy
+  linkedin: [rykertracy](https://www.linkedin.com/in/ryker-tracy-737024125/)
+
+# Other settings
+markdown: kramdown
+highlighter: rouge

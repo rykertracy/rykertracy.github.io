@@ -1,0 +1,7 @@
+# .gitignore for Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
